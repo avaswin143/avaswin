@@ -1,0 +1,130 @@
+@media only screen and (max-width: 450px) {
+  .item0 {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding: 8px;
+  }
+
+  .item0 ul {
+    display: none;
+  }
+  .item1 ul {
+    display: none;
+  }
+  .item1 hr {
+    display: none;
+  }
+  .item1 form {
+    display: none;
+  }
+  .item1 {
+    display: flex;
+    justify-content: center;
+    padding: 20px 100px 20px 100px;
+  }
+
+  .item21 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 15px;
+    padding: 12px;
+  }
+  .item2 {
+    display: none;
+  }
+  .item3 p {
+    text-align: center;
+    color: white;
+    background-color: red;
+  }
+  .item4 img {
+    width: 320px;
+  }
+  .item4 {
+    padding: 0px;
+  }
+  .item22 {
+    display: flex;
+    gap: 30px;
+    padding-left: 0px;
+    flex-direction: column;
+  }
+  .item6 {
+    display: flex;
+    padding: 0px;
+    line-height: 2;
+    flex-direction: column;
+  }
+  .item9 {
+    display: flex;
+    padding: 0px;
+    line-height: 2;
+    flex-direction: column;
+  }
+  .item11 {
+    display: flex;
+    padding: 0px;
+    line-height: 2;
+    flex-direction: column;
+  }
+  .item7 img {
+    width: 100%;
+  }
+  .item7 {
+    display: flex;
+    padding: 0px 0px 40px 0px;
+    flex-direction: column;
+  }
+  .item14 {
+    display: none;
+  }
+  .item13 img {
+    width: 100%;
+  }
+  .item24 {
+    display: none;
+  }
+  .item16 {
+    display: flex;
+    padding: 20px;
+    gap: 10px;
+  }
+  .item27 {
+    display: none;
+  }
+  .item18 img {
+    display: flex;
+    width: 200px;
+    justify-content: center;
+  }
+  .item19 {
+    display: flex;
+    background-color: black;
+    color: white;
+    gap: 100px;
+    line-height: 200%;
+    flex-direction: column;
+    padding: 0px;
+    text-align: center;
+  }
+  .item20 {
+    background-color: black;
+    color: white;
+    padding: 50px;
+    display: flex;
+    text-align: left;
+    gap: 100px;
+    flex-direction: column;
+  }
+  .itemss{
+    display: none;
+  }
+  .items{
+    display: none;
+  }
+}

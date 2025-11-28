@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item0{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    color: white;
+    padding: 20px 100px 20px 100px;
+}
+a:link{
+    text-decoration: none;
+}  
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+   .item0 ul,a{
+    display: flex;
+    gap:20px;
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    
+   } 
+    
+    
+
+.item21{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.item1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px 20px 100px;
+}.item1 ul,a{
+    list-style-type: none;
+    color: black;
+    text-decoration: none;
+}
+.item2{
+    padding: 20px 150px 20px 200px;
+        text-decoration: none;
+    
+} 
+.item2 {
+    a:link{
+    
+    text-decoration: none;
+}  
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}}
+
+.item2 ul{
+    display: flex;
+    justify-content: space-between;
+    
+        text-decoration: none;
+        list-style: none;
+    }
+    
+
+.item2 ul>li>.trend{
+    position: relative;
+    bottom: 10px;
+    background-color: aqua;
+    color: black;
+    
+}
+
+.item2 ul>li>.makeup{
+    position: relative;
+    bottom: 10px;
+    background-color: yellow;
+    color: black;
+}
+
+.item2 ul>li>.try{
+    position: relative;
+    bottom: 10px;
+    background-color: red;
+    color: black;
+}
+
+.item3 p{
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding: 10px;
+}
+.item4{
+    padding: 0px 0px 30px 40px;
+    
+}
+.item5{
+    gap: 50px;
+    text-align: center;
+    padding: 40px 0px 20px 0px;
+    line-height: 2;
+}
+.item8{
+    gap: 50px;
+    text-align: center;
+    padding: 40px 0px 40px 0px;
+    line-height: 2;
+}
+.item22{
+    display: flex;
+    gap: 30px;
+    padding-left: 150px;
+}
+.item6{
+    display: flex;
+    padding: 40px 100px 40px 100px ;
+    line-height: 2;
+    }
+.card1,.card2,.card3,.card4{
+    
+    max-width: 350px;
+    margin: auto; 
+    text-align: center;
+    
+}
+.item7{
+    display: flex;
+    padding: 0px 40px 150px 40px;
+}
+.card6,.card7{
+    
+    max-width: 585px;
+    margin: auto;
+    text-align: center;
+    line-height: 2;
+    
+   
+}
+.card6 button,.card7 button{
+    padding: 10px;
+}
+.item9{
+    display: flex;
+    padding: 0px 60px 60px 60px;
+    line-height: 2;
+}
+.item11{
+    display: flex;
+    padding: 0px 60px 60px 60px;
+    line-height: 2;
+}
+.card8,.card9,.card10,.card11{
+    
+    max-width: 350px;
+    margin: auto; 
+    text-align: center;
+}
+.card13,.card14,.card15,.card16{
+    
+    max-width: 350px;
+    margin: auto; 
+    text-align: center;
+}
+.item10{
+    text-align: center;
+    padding: 40px 0px 40px 0px;
+    line-height: 2;
+}
+.item12{
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+}
+.item15{
+    text-align: center;
+    padding: 40px 0px 40px 0px;
+}
+.item23{
+    display: flex;
+    text-align: center;
+    line-height: 2;
+    padding: 40px 0px 40px 0px;
+}
+.item16{
+    display: flex;
+    gap: 250px;
+    padding: 20px;
+}
+.item24{
+    display: flex;
+    gap: 250px;
+   padding: 20px;
+}
+
+.item17{
+text-align: center;
+padding: 40px 0px 40px 0px;
+line-height: 2;}
+.item17 h4{
+     color: red;
+}
+
+.item19 {
+    display: flex;
+    background-color: black;
+    color: white;
+    gap: 200px;
+    padding: 50px 0px 0px 200px;
+    padding-left: 200px;
+    line-height: 200%;
+}
+.item19 li{
+    list-style-type: none;
+}
+ 
+
+    a:link{
+        color: white;
+        text-decoration: none;
+    }
+    a:visited{
+        color: white;
+        text-decoration: none;
+    }
+    a:hover{
+        color: white;
+        text-decoration: underline;
+    }
+    a:active{
+        color: white;
+        text-decoration: underline;
+    }
+  
+.item20{
+    background-color: black;
+    color: white;
+    padding: 50px;   
+    display: flex;
+    text-align: left;
+    gap: 500px; }
+.item20 li{
+    list-style-type: none;
+}    
+.item20 image{
+        text-align: right;
+        gap: 600px;
+    }
+
+.item26{
+    display: flex;
+    justify-content: center;
+}
+.item25{
+    display: flex;
+    gap: 200px;
+}
